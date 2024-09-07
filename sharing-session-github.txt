@@ -1,1 +1,4 @@
 
+1. Pengenalan git
+2. Pengertian version control system
+3. kenapa harus menggunakan vsc
