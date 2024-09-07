@@ -2,3 +2,5 @@
 1. Pengenalan git
 2. Pengertian version control system
 3. kenapa harus menggunakan vsc
+4. Devinisi control system
+5. rekap
