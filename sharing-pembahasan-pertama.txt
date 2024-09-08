@@ -1,0 +1,3 @@
+Sharing pembahasan pertama yaitu
+1. Pengenalan tentang git 
+Git jita bisa sebut dengan version control system
